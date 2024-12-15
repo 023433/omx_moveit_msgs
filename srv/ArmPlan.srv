@@ -1,0 +1,8 @@
+geometry_msgs/Transform target_data
+
+---
+
+bool result
+moveit_msgs/RobotState start_state
+moveit_msgs/RobotTrajectory trajectory
+float64 planning_time
